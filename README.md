@@ -10,4 +10,4 @@ Utilisation
 Clonez le dépôt.
 Assurez-vous que PHP est installé sur votre système.
 Exécutez index.php dans votre navigateur.
-N'hésitez pas à contribuer ou à signaler des problèmes ! Bonne exploration du Livre d'Or en PHP.
+N'hésitez pas à contribuer ou à signaler des problèmes ! Bonne exploration.
